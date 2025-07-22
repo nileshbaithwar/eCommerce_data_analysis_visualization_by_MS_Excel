@@ -1,4 +1,4 @@
-# Data Analysis and Visualization with MS Excel
+# eCommerce data analysis and visualization with MS Excel
 
 ## Overview
 This project focuses on data analysis and visualization using **Microsoft Excel**. The dataset is centered around an **eCommerce platform**, containing sales data across multiple channels, products, and customer demographics. The analysis dives into the sales performance in various cities and states, categorized by age group and gender.
@@ -54,23 +54,9 @@ The following types of visualizations were created in Microsoft Excel:
 
 ### Steps to Open:
 - Open **Microsoft Excel**.
-- Click on **File** > **Open** and select the `ecommerce_sales_analysis.xlsx` file from this repository.
+- Click on **File** > **Open** and select the `ecommerce_sales.xlsx` file from this repository.
 - Explore the dashboard and interactive features such as slicers.
 
 ## Project Structure
 - `Excel_Files/` - Contains the main `.xlsx` Excel workbook with all analyses and visualizations.
 - `Dataset/` - The raw dataset used for analysis (e.g., CSV or Excel files).
-
-## Contributing
-Feel free to fork the repository and make any improvements. If you'd like to contribute, please submit a pull request with a description of the changes you've made.
-
-### Steps to Contribute:
-1. Fork the repository.
-2. Make your changes in a new branch.
-3. Commit your changes.
-4. Submit a pull request explaining your updates.
-
-
-## Acknowledgements
-- Microsoft Excel for providing the tools used for analysis and visualization.
-- Open-source contributors for their support and inspiration.
